@@ -1,0 +1,2 @@
+source F:/project/task/build/bootloader/gdbinit/symbols
+source F:/project/task/build/bootloader/gdbinit/connect

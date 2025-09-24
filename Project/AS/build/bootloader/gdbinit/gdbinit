@@ -1,0 +1,2 @@
+source F:/project/AS/build/bootloader/gdbinit/symbols
+source F:/project/AS/build/bootloader/gdbinit/connect

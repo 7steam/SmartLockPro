@@ -1,0 +1,2 @@
+source F:/project/motor/build/bootloader/gdbinit/symbols
+source F:/project/motor/build/bootloader/gdbinit/connect

@@ -1,0 +1,2 @@
+source F:/project/kk/build/bootloader/gdbinit/symbols
+source F:/project/kk/build/bootloader/gdbinit/connect

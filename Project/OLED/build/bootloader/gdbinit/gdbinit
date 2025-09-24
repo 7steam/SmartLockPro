@@ -1,0 +1,2 @@
+source F:/project/OLED/build/bootloader/gdbinit/symbols
+source F:/project/OLED/build/bootloader/gdbinit/connect
